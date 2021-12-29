@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{61E99C36-AA35-00C9-206B-7CB77C52FB38}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../ChessComConnection/Main.py">
+    <Files>
+      <File FileName="Assets/Scripts/ChessTest.cs" Line="39" Column="1" />
+      <File FileName="../../ChessComConnection/Main.py" Line="23" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8e784b4d-d866-48ec-a1b8-07bb6db2b720" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

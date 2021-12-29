@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4138266E-B916-4FAE-8259-BA390989E249}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChessComBoardGrab PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChessboardGrabber.cs">
+    <Files>
+      <File FileName="ChessboardGrabber.cs" Line="15" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChessComBoardGrab" expanded="True">
+            <Node name="ChessComBoardGrab" expanded="True">
+              <Node name="Dependencies" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
