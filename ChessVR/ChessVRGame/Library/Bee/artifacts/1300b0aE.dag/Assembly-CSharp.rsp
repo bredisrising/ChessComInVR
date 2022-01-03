@@ -348,6 +348,8 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/Free Low Poly Chess Set/Example/Scripts/CameraRotate.cs"
+"Assets/Scripts/ChessPlacer.cs"
 "Assets/Scripts/ChessTest.cs"
 -langversion:8.0
 
